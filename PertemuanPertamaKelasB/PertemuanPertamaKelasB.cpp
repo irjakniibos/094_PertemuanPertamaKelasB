@@ -17,7 +17,7 @@ int main()
 	cout << "Masukan Lebar=";
 	cin >> nLebar;
 	nLuas = nPanjang * nLebar;
-	cout << "luasnya adalah = " << nLuas <<;
+	cout << "luasnya adalah = " << nLuas << end1;
 
 
 }//end
